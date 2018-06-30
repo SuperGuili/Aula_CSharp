@@ -1,0 +1,9 @@
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\bin\Debug\Controllers.dll
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\bin\Debug\Controllers.pdb
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\bin\Debug\Modelos.dll
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\bin\Debug\Modelos.pdb
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\obj\Debug\Controllers.dll
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\Controllers\obj\Debug\Controllers.pdb

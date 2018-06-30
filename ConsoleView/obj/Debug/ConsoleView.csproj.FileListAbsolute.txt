@@ -1,0 +1,12 @@
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\ConsoleView.exe.config
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\ConsoleView.exe
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\ConsoleView.pdb
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\Controllers.dll
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\Modelos.dll
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\Controllers.pdb
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\bin\Debug\Modelos.pdb
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\obj\Debug\ConsoleView.csprojAssemblyReference.cache
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\obj\Debug\ConsoleView.csproj.CopyComplete
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\obj\Debug\ConsoleView.exe
+C:\Users\guili\Desktop\C#\presencial_01\AulasPresenciais\ConsoleView\obj\Debug\ConsoleView.pdb
